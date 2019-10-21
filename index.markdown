@@ -5,5 +5,3 @@
 layout: home
 background: 'photos/DSC_2752.jpg'
 ---
-
-strona glowna
