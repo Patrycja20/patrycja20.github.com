@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Page Title
-description: This is the page description.
-background: '/PATH_TO_IMAGE'
+title: Posty
+description: Znajdziesz tutaj moje treści odnośnie testowania oprogramowania. Od zagadnień teoretycznych związanych z całym procesu po implementacje testów automatycznych w Javie.
+background: '/photos/Lego.jpg'
 ---
 
 strona posts

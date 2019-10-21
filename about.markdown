@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: O mnie
 permalink: /about/
-background: '/PATH_TO_IMAGE'
+background: '/photos/DSC_2752.jpg'
 ---
 
 strona about ... ... .
